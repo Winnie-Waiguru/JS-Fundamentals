@@ -1,6 +1,6 @@
 # JavaScript Fundamentals 
 
-Welcome to the **js-fundamentals** repository! This project serves as a collection of my learning progress and hands-on practice as I explore the core concepts of JavaScript.
+Welcome to the **js-fundamentals** repository! This project collects my learning progress and hands-on practice as I explore the core concepts of JavaScript.
 
 ## What I've Learned
 
