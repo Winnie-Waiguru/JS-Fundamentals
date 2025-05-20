@@ -1,5 +1,5 @@
 function loveC() {
-  const input = parseInt(process.argv[2]);
+  let input = parseInt(process.argv[2]);
 
   if (isNaN(input)) {
     console.log("Missing number of occurrences");
@@ -10,9 +10,10 @@ function loveC() {
     return;
   }
 
-  while (input > 0) {
+  let count = input;
+  while (count > 0) {
     console.log("C is fun");
-    input--;
+    count--;
   }
 }
 
